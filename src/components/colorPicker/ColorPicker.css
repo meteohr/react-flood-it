@@ -1,0 +1,17 @@
+.colorPicker {
+    height: 50px;
+    width: 300px;
+    margin: auto;
+}
+
+.picker {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid white;
+}
+
+.picker:hover {
+    border: 0;
+}

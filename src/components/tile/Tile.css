@@ -1,0 +1,8 @@
+.tile {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: 30px;
+    height: 30px;
+}
