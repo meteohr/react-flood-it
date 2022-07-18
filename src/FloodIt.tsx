@@ -1,7 +1,6 @@
 import './App.css'
 import { colors } from './settings'
 import ColorProvider from './components/colorProvider/ColorProvider'
-import { useEffect, useState } from 'react'
 
 export interface TileInfo {
     color: string
